@@ -1,2 +1,2 @@
 # Audio-Denoising
-Audio file denoising from unwanted background different sounds 
+Audio file denoising from different background unwanted sounds.
